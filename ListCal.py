@@ -12,6 +12,7 @@ def listMinMax(l):
     return min, max
 
 def listSort(l):
+    print("THis is from Venkatesh")
     sort = sorted(l)
     return sort
 
