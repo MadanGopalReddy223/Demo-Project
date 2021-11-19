@@ -9,3 +9,8 @@ def listMinMax(l):
             max = x
     return min, max
 
+def listSort(l):
+    sort = sorted(l)
+    return sort
+
+
