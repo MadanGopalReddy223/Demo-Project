@@ -18,5 +18,9 @@ def listSort(l):
 def listReverse(l):
     return l[::-1]
 
+def listlength(l):
+    return len(l)
+
+
 
 
