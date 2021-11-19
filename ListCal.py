@@ -13,4 +13,8 @@ def listSort(l):
     sort = sorted(l)
     return sort
 
+def listReverse(l):
+    return l[::-1]
+
+
 
